@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h2>AI Daily — {{ date }}</h2>{% for a in articles %}<div><h3>{{ a.title }}</h3>{{ a.summary_html|safe }}<p>Mood: {{ a.mood }} {{ a.mood_icon }}</p></div>{% endfor %}</body></html>
