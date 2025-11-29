@@ -278,6 +278,3 @@ Capstone Automation Project — 2025
 
 MIT License
 Free to use, modify, and build on.
-
-This README is **100% complete** and ready for GitHub.
-
